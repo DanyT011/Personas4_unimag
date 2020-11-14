@@ -12,4 +12,7 @@
     <string name="crear">Create</string>
     <string name="cedula">Cedula</string>
     <string name="mensaje_guardado_exitosamente">Person save sucessfully</string>
+    <string name="mensaje_error_cedula">Entry cedula</string>
+    <string name="mensaje_error_nombre">Entry name</string>
+    <string name="mensaje_error_apellido">Entry last name</string>
 </resources>
