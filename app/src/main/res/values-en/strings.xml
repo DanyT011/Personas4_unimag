@@ -3,4 +3,13 @@
     <string name="app_name">Personas4</string>
     <string name="titulo">Create Person</string>
     <string name="nombre">Name</string>
+    <string name="apellido">LastName</string>
+    <string name="guardar">Save</string>
+    <string name="limpiar">Clear</string>
+    <string name="titulo_listar_personas">List Person</string>
+    <string name="numero">No.</string>
+    <string name="listar">List</string>
+    <string name="crear">Create</string>
+    <string name="cedula">Cedula</string>
+    <string name="mensaje_guardado_exitosamente">Person save sucessfully</string>
 </resources>
