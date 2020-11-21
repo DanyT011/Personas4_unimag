@@ -4,11 +4,21 @@ public class Persona{
     private String cedula;
     private String nombre;
     private String apellido;
+    private Integer foto;
 
-    public Persona(String cedula, String nombre, String apellido){
+    public Persona(String cedula, String nombre, String apellido, Integer foto){
         this.cedula = cedula;
         this.nombre = nombre;
         this.apellido = apellido;
+        this.foto = foto;
+    }
+
+    public Integer getFoto() {
+        return foto;
+    }
+
+    public void setFoto(Integer foto) {
+        this.foto = foto;
     }
 
     public String getCedula() {
