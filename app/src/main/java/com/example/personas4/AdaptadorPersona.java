@@ -61,7 +61,7 @@ public class AdaptadorPersona extends BaseAdapter {
         cedula.setText(p.getCedula());
         nombre.setText(p.getNombre());
         apellido.setText(p.getApellido());
-        
+
         return v;
     }
 }
